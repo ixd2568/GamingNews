@@ -4,7 +4,7 @@ GamingNews
 Mobile App Development Final Project
 
 - RSS Parser/Viewer
-- Allows for viewing of a number of preset RSS Feeds
+- Allows for viewing of a number of preset RSS Feeds - defaults to gaming news feeds
 - Also allows the user to input their custom feeds
 - Feed data is retrieved and parsed using AsyncTasks
 - Uses SQLite database to store and retrieve list of favorites
