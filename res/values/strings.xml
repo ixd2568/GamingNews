@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gaming News</string>
+    <string name="action_settings">Settings</string>
+    <string name="select">Please choose a feed:</string>
+    <string name="kotaku">Kotaku</string>
+    <string name="eurogamer">Eurogamer</string>
+    <string name="joystiq">Joystiq</string>
+    <string name="siliconera">Siliconera</string>
+    <string name="rps">Rock, Paper, Shotgun</string>
+    <string name="other">Other&#x2026;</string>
+    <string name="ok">OK</string>
+    <string name="fav">Favorites</string>
+    <string name="enter">Please enter feed URL:</string>
+
+</resources>
